@@ -1,0 +1,76 @@
+In this tutorial we can use automatic task scheduler to keep sending the mails regularly..
+
+we also require data of birthdays of different people.
+the year gets increased everytime we fidn a match.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-->copy the path 
+-->search task scheduler on your windows
+-->open task scheduler and go to task scheduler library
+-->click on create task
+-->go to triggers, click on new 
+-->select daily radio button
+-->choose a time when would you like to run your program, set it to for example 00:00:00
+-->click okay
+-->go to general , give a name to the task,
+-->go to action, click on new
+-->it should contain what you actually want to start(we want to start python program)
+-->after clicking on new, click on browse and browse to wherever your python is installed and select "python.exe".
+-->
